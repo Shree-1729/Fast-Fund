@@ -1,0 +1,78 @@
+.gradient-custom-2 {
+  /* fallback for old browsers */
+  background: #fccb90;
+
+  /* Chrome 10-25, Safari 5.1-6 */
+  background: -webkit-linear-gradient(
+    to right,
+    #ee7724,
+    #d8363a,
+    #dd3675,
+    #b44593
+  );
+
+  /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+  background: linear-gradient(to right, #ee7724, #d8363a, #dd3675, #b44593);
+}
+
+@media (min-width: 768px) {
+  .gradient-form {
+    height: 100vh !important;
+  }
+}
+@media (min-width: 769px) {
+  .gradient-custom-2 {
+    border-top-right-radius: 0.3rem;
+    border-bottom-right-radius: 0.3rem;
+  }
+}
+.gradient-form {
+  background-color: #eee;
+}
+.text-center img {
+  width: 185px;
+}
+.float {
+  display: block;
+  float: left;
+  position: relative;
+}
+.centered {
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+}
+a {
+  text-decoration: none;
+}
+.gradient-custom {
+  /* fallback for old browsers */
+
+  color: blueviolet;
+  /* Chrome 10-25, Safari 5.1-6 */
+}
+
+.card-registration .select-input.form-control[readonly]:not([disabled]) {
+  font-size: 1rem;
+  line-height: 2.15;
+  padding-left: 0.75em;
+  padding-right: 0.75em;
+}
+.card-registration .select-arrow {
+  top: 13px;
+}
+.makethat {
+  align-items: center;
+  /* margin-left:42%;     */
+}
+.boyd {
+  background-color: #6fbeb1;
+  /* border-radius: 3rem; */
+  text-align: center;
+}
+.headed {
+  text-decoration: underline;
+}
+.blocking {
+  display: block;
+}

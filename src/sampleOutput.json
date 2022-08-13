@@ -1,0 +1,146 @@
+{
+  "status": "ok",
+  "totalResults": 70,
+   articles = [
+    {
+      author: "1Vimal Patel",
+      title: "SmartSort Technologies",
+      description:
+        "The world is overrun with trash – trash that can be recycled and trash which ends up in the landfill. It’s a big problem and big business, creating a market well into the trillions..",
+      url: "https://www.fundable.com/smartsort-technologies",
+      urlToImage:
+        "https://s3.amazonaws.com/media.fundable.com/profile-sections/319834/files/picture1-cciwtmmpcp.png",
+      publishedAt: "2022-08-13T02:34:20Z",
+      content:
+        "Lyons Magnus, a nutritional drinks company, expanded a voluntary recall of some varieties of popular products including the oat drink Oatly, Optimum Nutrition protein powder and Glucerna shakes, beca… [+724 chars]",
+    },
+    {
+      author: "2Investor's Business Daily",
+      title: "Alertgy Solutions",
+      description:
+        "arguably the first wearable non-invasive continuous monitoring system with alerts taking on financial risks in the hope of profit.the new business opportunities have encouraged entrepreneurship on a grand scale",
+      url: "https://www.fundable.com/alertgy",
+      urlToImage:
+        "https://s3.amazonaws.com/media.fundable.com/profile-sections/290747/files/screen-shot-2021-04-09-at-83836-pm-2-j2zstyjycd.png",
+      publishedAt: "2022-08-13T01:54:00Z",
+      content:
+        "Dow Jones futures will open on Sunday evening, along with S&amp;P 500 futures and Nasdaq futures. The stock market rally had another strong week, moving up to a major test.\r\nXA market pause wouldn't … [+9329 chars]",
+    },
+    {
+      author: null,
+      title: "Ambient Clinical Analytics",
+      description:
+        "The Ambient Clinical Analytics AWARE™ Platform uses Mayo Clinic licensed technologies including over 1,200 rules and algorithms to give providers real-time point-of-care visualization of patients’ holistic condition by organ system",
+      url: "https://www.fundable.com/ambient-clinical-analytics",
+      urlToImage:
+        "https://s3.amazonaws.com/media.fundable.com/profile-sections/299393/files/screen-shot-2021-06-24-at-102940-am-gcjoqt5iu4.png",
+      publishedAt: "2022-08-13T00:42:38Z",
+      content: null,
+    },
+    {
+      author: null,
+      title: "Clean Robotics",
+      description:
+        "The autonomous Smart Bin harnesses robotics, computer vision, and AI to detect and separate landfill waste from recyclables — ensuring garbage ends up in the landfill and recyclables don’t.",
+      url: "https://www.fundable.com/cleanrobotics",
+      urlToImage:
+        "https://s3.amazonaws.com/media.fundable.com/profile-sections/274752/files/1-egu5iv3byz.png",
+      publishedAt: "2022-08-13T00:23:00Z",
+      content:
+        "BOSTON —A Delta airplane bound for Los Angeles from Boston's Logan Airport struck the wing of another aircraft while taxiing from the gate Friday evening. \r\nA passenger on board Delta Flight 458 post… [+1554 chars]",
+    },
+    {
+      author: "Abner Li",
+      title: "iiRcade",
+      description:
+        "Premium arcade game platform with licenced arcade games and online services  taking on financial risks in the hope of profit.the new business opportunities have encouraged entrepreneurship on a grand scale ",
+      url: "https://www.fundable.com/company/198802/setup",
+      urlToImage:
+        "https://media.istockphoto.com/photos/retro-video-game-arcade-machine-screen-picture-id1300036875?b=1&k=20&m=1300036875&s=170667a&w=0&h=8mo7J-9e8b0QCDSNgg--WGqLgWVSlwgH7AwJQ4xZWp4=",
+      publishedAt: "2022-08-12T23:47:00Z",
+      content:
+        "Google is reportedly following Apple TV and Amazon Prime Video in letting users subscribe to other streaming services through a YouTube “channel store.”\r\nAccording to the Wall Street Journal, YouTube… [+1639 chars]",
+    },
+    {
+      author: "Scaeva Technologies",
+      title: "Social Security Recipients",
+      description:
+        "Transforming sound into mind bending immersive audio experiences. as well as by providing the better user experience so that each one can be satisfied by our products ",
+      url: "https://www.fundable.com/scaeva-technologies",
+      urlToImage:
+        "https://s3.amazonaws.com/media.fundable.com/profile-sections/318713/files/screen-shot-2022-02-15-at-105232-am-hedkd6hcnc.png",
+      publishedAt: "2022-08-12T23:41:32Z",
+      content:
+        "Social Security beneficiaries are set to see a sizable increase in their 2023 benefit checks thanks to a cost-of-living adjustment (COLA) designed to offset soaring inflation.\r\nAn analysis released t… [+1877 chars]",
+    },
+    {
+      author: "Jason Nelson",
+      title: "Orison",
+      description:
+        "The world's first and only self installable energy storage appliances.the new business opportunities have encouraged entrepreneurship on a grand scale",
+      url: "https://www.fundable.com/company/173953/setup",
+      urlToImage:
+        "https://media.istockphoto.com/photos/diverse-modern-office-businessman-leads-business-meeting-with-talks-picture-id1363104923?b=1&k=20&m=1363104923&s=170667a&w=0&h=HSEJHzvyR-YAcHGA6ar2JNialxqhgI443WeIJBkUiUU=",
+      publishedAt: "2022-08-12T23:26:37Z",
+      content:
+        "In the week following the sanctioning of the Tornado Cash website by the U.S. Treasury Departments Office of Foreign Assets Control (OFAC), the price of the token underpinning the system is down 56%,… [+2011 chars]",
+    },
+    {
+      author: null,
+      title: "Windpact",
+      description:
+        "We provide crucial software and technologies that improve product developmentthe new business opportunities have encouraged entrepreneurship on a grand scale.",
+      url: "https://www.fundable.com/windpact-1",
+      urlToImage:
+        "https://media.istockphoto.com/photos/mic-in-a-smoky-stage-picture-id1162815749?b=1&k=20&m=1162815749&s=170667a&w=0&h=0bcN9ZX36-46GVmr7xVgcAtCyzzjk-hUeWbKrEhIpkM=",
+      publishedAt: "2022-08-12T23:17:17Z",
+      content: null,
+    },
+    {
+      author: null,
+      title: "Devotion Dresses",
+      description:
+        "Online marketplace offering premium European dresses/ the new business opportunities have encouraged entrepreneurship on a grand scale so that we need to improve the society by ",
+      url: "https://www.fundable.com/devotion-dresses",
+      urlToImage:
+        "https://media.istockphoto.com/photos/bride-and-groom-saying-vows-during-wedding-ceremony-outdoors-picture-id1064650180?b=1&k=20&m=1064650180&s=170667a&w=0&h=NgE5-HIYlzetHyJIfR97aHukZmEAUUugTtoPaNHFq4I=",
+      publishedAt: "2022-08-12T21:47:52Z",
+      content:
+        "To continue, please click the box below to let us know you're not a robot.",
+    },
+    {
+      author: null,
+      title: "Native traits",
+      description:
+        "Native trate is premier developer and marketer of naturally occuring genetic traits for the hybrid seed corn industry.",
+      url: "https://www.fundable.com/native-traits",
+      urlToImage:
+        "https://s3.amazonaws.com/media.fundable.com/profile-sections/316581/files/screen-shot-2022-06-10-at-22114-pm-sowxtat7qt.png",
+      publishedAt: "2022-08-12T21:17:18Z",
+      content:
+        "Carnival Cruise Line today announced protocol updates that meet public health goals but recognize the evolving nature of COVID-19. With these changes, Americas Cruise Line is making it easier for mor… [+3034 chars]",
+    },
+    {
+      author: "Dave Jamieson",
+      title: "Sustain Inc.",
+      description: "Marking renewable energy easy with our scalable flatform, for all the living beings living on the earth by providing the basic ammunities for them by making available to all the organisms",
+      url: "https://www.fundable.com/sustaine-inc",
+      urlToImage:
+        "https://s3.amazonaws.com/media.fundable.com/profile-sections/286641/files/1-4z7nrcc57n.png",
+      publishedAt: "2022-08-12T20:27:29Z",
+      content:
+        "It was a little more than two weeks ago that an upstart labor campaign, Trader Joes United, won an election in Massachusetts to form the grocery chains first union. But the independent group of Trade… [+3659 chars]",
+    },
+    {
+      author: "Daniella Genovese",
+      title: "Above",
+      description: "Multiple autonomous systems.one seamless workflow . We are mainly focusing on the recycling of the ciontents by reusing the exissting waste objects and reproduce them",
+      url: "https://www.fundable.com/above",
+      urlToImage:
+        "https://s3.amazonaws.com/media.fundable.com/profile-sections/251042/files/1-e2v1h6v17u.png",
+      publishedAt: "2022-08-12T20:24:25Z",
+      content:
+        'Amusement park operator Six Flags has become "day care center for teenagers" after offering too many discounts, according to its chief executive officer. \r\nDuring an earnings call with analysts, Seli… [+2933 chars]',
+    },
+  ];
+}

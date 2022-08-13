@@ -1,0 +1,69 @@
+.float_righta{
+    float: right;
+    margin-left: 220%;
+}
+.float_rightd{
+    float: right;
+    margin-left: 20%;
+}
+.float_righte{
+    float: right;
+    margin-left: 10%;
+}
+.writeit{
+  
+        position: absolute;
+        top: 30rem;
+        left: 16px;
+        color:white;
+        font-size: 3rem;
+      
+}
+.writeit2{
+    position: absolute;
+        top: 35rem;
+        left: 16px;
+        color:white;
+        font-size: 2rem;
+}
+.writeit3{
+    position: absolute;
+    top: 40rem;
+    left: 16px;
+    color:white;
+    font-size: 1.25rem;
+    font-weight:5rem;
+    text-align: center;
+  margin-left: 40%;
+
+}
+.gurudata{
+border-radius: 1rem;
+background-color:rgba(0, 0, 0, 0.459);
+  padding:10%;
+}
+.nextimage img{
+    margin-top:2%;
+    width:100%;
+
+}
+
+.yours{
+    position: absolute;
+    top: 100rem;
+    left: 16px;
+    color:white;
+    font-size: 5rem;
+    font-weight:5rem; 
+    margin-left:30%;
+    border:1rem white solid ;
+}
+.text-center{
+    background-color: rgba(0, 0, 0, 0.05);
+}
+.footer{
+    color:black;
+}
+div{
+    align-items: center;
+}
