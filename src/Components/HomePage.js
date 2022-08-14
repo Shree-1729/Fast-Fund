@@ -1,5 +1,4 @@
-import React from "react";
-import { BrowserRouter, Routes, Route } from "react-router-dom";
+
 import { Component, useState, useEffect } from "react";
 import ANavbar from "./ANavbar";
 import CFeaturedMain from "./CFeaturedMain";
